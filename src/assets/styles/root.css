@@ -1,0 +1,13 @@
+:root {
+  --background-color: #fff;
+  --text-color: #000;
+  --nav-bg: #fff;
+  --projects-bg: #fff;
+  --projects-shadow: #e2e2e2;
+  --projects-item-bg: #fff;
+  --menu: #131318;
+
+}
+body {
+  background: var(--background-color);
+}
